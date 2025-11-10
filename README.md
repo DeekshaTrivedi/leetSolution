@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
