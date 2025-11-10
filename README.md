@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0160-intersection-of-two-linked-lists) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -52,4 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
