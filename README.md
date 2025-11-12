@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2288-count-operations-to-obtain-zero) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0474-ones-and-zeroes) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0474-ones-and-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
