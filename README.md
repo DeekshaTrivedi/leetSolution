@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0242-valid-anagram) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
