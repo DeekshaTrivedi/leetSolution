@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Number Theory
 |  |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2625-increment-submatrices-by-one) |
+## Sliding Window
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/DeekshaTrivedi/leetSolution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
