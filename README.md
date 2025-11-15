@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0049-group-anagrams) |
 | [0474-ones-and-zeroes](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0474-ones-and-zeroes) |
 | [2625-increment-submatrices-by-one](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DeekshaTrivedi/leetSolution/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/DeekshaTrivedi/leetSolution/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
